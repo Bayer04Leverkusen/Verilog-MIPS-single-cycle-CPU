@@ -32,7 +32,7 @@ It consists of following parts:<br>
 ![Image text](https://github.com/Bayer04Leverkusen/Verilog-MIPS-single-cycle-CPU/blob/main/Modelsim2.png)<br>
 
 ## REFERENCE BOOK
-Name: Computer Organization and Design THE HARDWARE/SOFTWARE INTERFACE
+* Computer Organization and Design THE HARDWARE/SOFTWARE INTERFACE
 Author: David A. Patterson  John L. Hennessy
 
 ## IN THE END
